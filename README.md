@@ -1,7 +1,3 @@
-Here's a professional and ATS-friendly **GitHub README description** for your **Diabetes Prediction App**.
-
----
-
 # 🩺 Diabetes Prediction App
 
 A Machine Learning-powered web application that predicts the likelihood of diabetes based on a user's medical information. The application is built using **Python**, **Scikit-learn**, and **Streamlit**, providing an intuitive interface for users to input health parameters and receive instant predictions.
